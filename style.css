@@ -4,3 +4,9 @@
 body {
   background-color: #B8C1EC;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
